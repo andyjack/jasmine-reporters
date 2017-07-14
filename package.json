@@ -1,16 +1,16 @@
 {
   "author": "Larry Myers",
-  "name": "jasmine-reporters",
+  "name": "jasmine-reporters-tap-fork",
   "description": "Reporters for the Jasmine BDD Framework",
-  "version": "2.2.1",
-  "homepage": "https://github.com/larrymyers/jasmine-reporters",
+  "version": "2.2.2",
+  "homepage": "https://github.com/andyjack/jasmine-reporters",
   "maintainers": "Ben Loveridge <bloveridge@gmail.com>",
   "scripts": {
     "test": "jasmine"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/larrymyers/jasmine-reporters.git"
+    "url": "git://github.com/andyjack/jasmine-reporters.git"
   },
   "dependencies": {
     "mkdirp": "^0.5.1",
@@ -22,7 +22,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://raw.github.com/larrymyers/jasmine-reporters/master/LICENSE"
+      "url": "https://raw.github.com/andyjack/jasmine-reporters/master/LICENSE"
     }
   ]
 }
