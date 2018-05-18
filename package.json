@@ -4,7 +4,7 @@
   "description": "Reporters for the Jasmine BDD Framework",
   "version": "2.2.2",
   "homepage": "https://github.com/andyjack/jasmine-reporters",
-  "maintainers": "Ben Loveridge <bloveridge@gmail.com>",
+  "maintainers": ["Andy Jack <github@veracity.ca>"],
   "scripts": {
     "test": "jasmine"
   },
