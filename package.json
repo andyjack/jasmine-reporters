@@ -2,9 +2,11 @@
   "author": "Larry Myers",
   "name": "jasmine-reporters-tap-fork",
   "description": "Reporters for the Jasmine BDD Framework",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "homepage": "https://github.com/andyjack/jasmine-reporters",
-  "maintainers": ["Andy Jack <github@veracity.ca>"],
+  "maintainers": [
+    "Andy Jack <github@veracity.ca>"
+  ],
   "scripts": {
     "test": "jasmine"
   },
